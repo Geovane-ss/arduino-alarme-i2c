@@ -71,3 +71,15 @@ Este projeto é livre para fins educacionais.
 
 ---
 
+## 📸 Imagens do Projeto / Project Images
+
+![image](https://github.com/user-attachments/assets/63f62281-e03d-4137-89f7-ff54e31ba213)
+
+---
+
+## 🤝 Autor / Author
+
+**Geovane**
+
+📧 [meugit.geovane.hub@gmail.com]  
+💼 [Linkedin: https://www.linkedin.com/in/geovane-vitor-b7540716b]
