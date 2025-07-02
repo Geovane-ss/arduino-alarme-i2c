@@ -45,13 +45,17 @@ No Arduino Mestre, o usuário envia comandos (`ARMAR` ou `DESARMAR`) pelo **moni
 
 arduino-alarme-i2c/
 │
+
 ├── mestre/
 
 │ └── mestre.ino
+
 │
+
 ├── escravo/
 
 │ └── escravo.ino
+
 │
 
 └── README.md
